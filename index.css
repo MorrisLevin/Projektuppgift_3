@@ -1,0 +1,84 @@
+html {
+    min-height: 100vh;
+}
+
+body {
+    height: 70vh;
+    background-color: rgb(0, 0, 0);
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+  }
+
+  h1 {
+    font-family: "Syne Mono", serif;
+    color: rgb(247, 34, 165);
+    font-size: 80px;
+  }
+
+header {
+    display: flex;
+    align-items: center;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.overtimeline {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    margin-top: 85px;
+    font-family: "Syne Mono", serif;
+    color: rgb(247, 34, 165);
+    font-size: 20px;
+}
+
+#phase-1 {
+    background-color: rgb(0, 0, 0);
+    font-family: "Syne Mono", serif;
+    color: rgb(247, 34, 165);
+    font-size: 15px;
+    
+}
+
+#phase-2 {
+    background-color: rgb(0, 0, 0);
+    font-family: "Syne Mono", serif;
+    color: rgb(247, 34, 165);
+    font-size: 15px;
+}
+
+#phase-3 {
+    background-color: rgb(0, 0, 0);
+    font-family: "Syne Mono", serif;
+    color: rgb(247, 34, 165);
+    font-size: 15px;
+}
+
+#phase-4 {
+    background-color: rgb(0, 0, 0);
+    font-family: "Syne Mono", serif;
+    color: rgb(247, 34, 165);
+    font-size: 15px;
+}
+
+#phase-5 {
+    background-color: rgb(0, 0, 0);
+    font-family: "Syne Mono", serif;
+    color: rgb(247, 34, 165);
+    font-size: 15px;
+}
+
+#phase-6 {
+    background-color: rgb(0, 0, 0);
+    font-family: "Syne Mono", serif;
+    color: rgb(247, 34, 165);
+    font-size: 15px;
+}
+
+
+
+
+
+
